@@ -2,12 +2,5 @@ coldpaper!
 cat
 dog
 
-## git 명령어 ##
-git init 
 
-git config user.name
-git config user.email
-
-git remote add origin https://??
-
-보안짱 IT는 너무 어려워. 아오 진짜 어려워
+내가 한 번 충돌을 시켜 보리다.
