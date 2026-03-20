@@ -10,3 +10,4 @@ git config user.email
 
 git remote add origin https://??
 
+나도 어려워 
