@@ -2,12 +2,4 @@ coldpaper!
 cat
 dog
 
-## git 명령어 ##
-git init 
-
-git config user.name
-git config user.email
-
-git remote add origin https://??
-
-보안짱 데브옵스도 짱
+내가 한 번 충돌을 시켜 보리다.
