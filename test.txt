@@ -2,12 +2,5 @@ coldpaper!
 cat
 dog
 
-## git 명령어 ##
-git init 
-
-git config user.name
-git config user.email
-
-git remote add origin https://??
 
 나도 어려워 
